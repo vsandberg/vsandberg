@@ -1,5 +1,5 @@
 👋 Hi, I’m Ville Sandberg and i'm second year ICT student at Oulu University of Applied Sciences
 
-🌱 I’m currently learning python and c++
+🌱 I’m currently learning Python and C++
 
-📫 Reach me www.linkedin.com/in/ville-sandberg or email 'sandbergville@hotmail.com'
+📫 Reach me at www.linkedin.com/in/ville-sandberg or email sandbergville@hotmail.com
